@@ -1,10 +1,8 @@
 <div id="header" align="center">
   <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>  
 </div>
-<br/>
-
 ## Aytaç Serçe
-### Frontend Developer from Turkey :turkey:, combining skills with hard work :man_technologist:
+### Frontend Developer from Turkey :tr:, combining skills with hard work :man_technologist:
 
 - ⚡ I have started my development journey in early 2022 and progressing fast ever since.
 
