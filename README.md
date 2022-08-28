@@ -11,7 +11,7 @@
 
 - 🌱 I’m currently on a frontend bootcamp provided by <a href="https://www.patika.dev/">patika.dev<a/>
   
-- 📫 You can reach me on:   <a href="www.linked.in/aytacserce/">
+- 📫 You can reach me on:   <a href="https://www.linkedin.com/in/aytacserce/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
 
