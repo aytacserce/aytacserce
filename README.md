@@ -3,15 +3,15 @@
 </div>
 
 ## Aytaç Serçe
-### Frontend Developer from Turkey :uk:, combining skills with hard work :man_technologist:
+### Frontend Developer from Turkey, combining skills with hard work :man_technologist:
 
 - ⚡ I have started my development journey in early 2022 and progressing fast ever since.
 
 - 🔭 I’m currently doing some voluntary work for friends and family and developing a portfolio site using React.
 
-- 🌱 I’m currently on a frontend bootcamp provided by <a href="https://www.patika.dev/">patika.dev<a/>
+- 🌱 I’m currently on a frontend bootcamp provided by <a target="_blank" href="https://www.patika.dev/">patika.dev<a/>
   
-- 📫 You can reach me on:   <a href="www.linked.in/aytacserce/">
+- 📫 You can reach me on:   <a target="_blank" href="www.linked.in/aytacserce/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
 
