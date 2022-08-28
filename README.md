@@ -8,8 +8,8 @@
   </a>
 </div>
 <br/>
-About Me :man_technologist: :
-------
+
+### About Me :man_technologist: :
 
 Frontend Developer using :
 
