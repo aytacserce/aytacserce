@@ -8,7 +8,7 @@
   </a>
 </div>
 <br/>
-### :man_technologist: About Me:
+### About Me :man_technologist: :
 Frontend Developer using :
 
 <!--
