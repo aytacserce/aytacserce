@@ -3,7 +3,7 @@
 </div>
 
 ## Aytaç Serçe
-### Frontend Developer from Turkey :tr_flag:, combining skills with hard work :man_technologist:
+### Frontend Developer from Turkey :uk:, combining skills with hard work :man_technologist:
 
 - ⚡ I have started my development journey in early 2022 and progressing fast ever since.
 
