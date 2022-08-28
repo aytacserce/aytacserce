@@ -9,9 +9,9 @@
 
 - 🔭 I’m currently doing some voluntary work for friends and family and developing a portfolio site using React.
 
-- 🌱 I’m currently on a frontend bootcamp provided by <a target="_blank" href="https://www.patika.dev/">patika.dev<a/>
+- 🌱 I’m currently on a frontend bootcamp provided by <a href="https://www.patika.dev/">patika.dev<a/>
   
-- 📫 You can reach me on:   <a target="_blank" href="www.linked.in/aytacserce/">
+- 📫 You can reach me on:   <a href="www.linked.in/aytacserce/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
 
@@ -29,7 +29,13 @@
 
   ---
 
-  ### Some of my projects (GitHub Pages):
+  ### :clipboard: Some of my projects (GitHub Pages):
+  
+  :page_facing_up: <a href="https://aytacserce-portfolio.netlify.app/">Portfolio Site<a/>
+  
+  :page_facing_up: <a href="https://mapty-exercise-records.netlify.app/">Exercise Records<a/>
+  
+  :page_facing_up: <a href="https://bankist-app-login.netlify.app/">Basic Bank App<a/>
   
   ---
   
