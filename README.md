@@ -8,7 +8,7 @@
 
 - ⚡ I have started my development journey in early 2022 and progressing fast ever since.
 - 🔭 I’m currently doing some voluntary work for friends and family who need quality web sites.
-- 🌱 I’m currently on a bootcamp provided by <a href="https://www.patika.dev/">patika.dev<<a/>
+- 🌱 I’m currently on a bootcamp provided by <a href="https://www.patika.dev/">patika.dev<a/>
 - 📫 You can reach me on:   <a href="www.linked.in/aytacserce/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
