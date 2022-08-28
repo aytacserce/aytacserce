@@ -11,7 +11,15 @@
 
 ### About Me :man_technologist: :
 
-Frontend Developer using :
+Frontend Developer from Turkey combining skills with hard work...
+
+I have started my development journey in early 2022 and progressing fast ever since.
+I am currently on a bootcamp and doing some voluntary work for friends and family who need quality web sites.
+I am open to full-time positions and freelance projects as well as voluntary work so I can contribute and develop further.
+
+---
+
+### Languages and Tools:
 
 <!--
 **cptsprrw/cptsprrw** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
