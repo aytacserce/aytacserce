@@ -39,6 +39,10 @@
   
   :page_facing_up: <a href="https://bankist-app-login.netlify.app/">Basic Bank App<a/>
   
+  :page_facing_up: <a href="https://over-20-wins.netlify.app/">Pig Game<a/>
+  
+  :page_facing_up: <a href="https://guess-my-number-1-to-20.netlify.app/">Guess The Number Game<a/>
+  
   ---
   
 ### :fire: My Stats :
