@@ -33,6 +33,8 @@
   
   :page_facing_up: <a href="https://aytacserce-portfolio.netlify.app/">Portfolio Site<a/>
   
+  :page_facing_up: <a href="https://www.dogaldengerehberi.com/">dogaldengerehberi.com (Real-life Project)<a/>
+  
   :page_facing_up: <a href="https://mapty-exercise-records.netlify.app/">Exercise Records<a/>
   
   :page_facing_up: <a href="https://bankist-app-login.netlify.app/">Basic Bank App<a/>
