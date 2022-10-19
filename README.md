@@ -5,7 +5,7 @@
 ## Aytaç Serçe
 ### Frontend Developer from Turkey, combining skills with hard work :man_technologist:
 
-- ⚡ I have started my development journey in early 2022 and progressing fast ever since.
+- ⚡ I have started my development journey in early 2022 and been progressing fast ever since.
 
 - 🔭 I’m currently doing some voluntary work for friends and family and developing a portfolio site using React.
 
