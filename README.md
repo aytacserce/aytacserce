@@ -7,7 +7,7 @@
 
 - ⚡ I have returned to active coding in early 2022 and been progressing fast ever since.
 
-- 🔭 I’m currently maintaining a code base written in Angular and preparing to develop a new business app in React within a EV Charging Company.
+- 🔭 I’m currently maintaining a code base written in Angular and preparing to develop a new business app in React within an EV Charging Company.
   
 - 📫 You can reach me on:   <a href="https://www.linkedin.com/in/aytacserce/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
