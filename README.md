@@ -33,7 +33,7 @@
 
   ### :clipboard: Some of my early Vanilla JS projects (GitHub Pages):
   
-  :page_facing_up: <a href="https://aytacserce-portfolio.netlify.app/">Portfolio Site<a/>
+  :page_facing_up: <a href="https://aytac-serce.netlify.app/">Portfolio Site<a/>
   
   :page_facing_up: <a href="https://www.dogaldengerehberi.com/">dogaldengerehberi.com (Real-life Project)<a/>
   
