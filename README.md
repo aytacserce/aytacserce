@@ -5,9 +5,9 @@
 ## Aytaç Serçe
 ### Frontend Developer from Turkey, combining skills with hard work :man_technologist:
 
-- ⚡ I have returned to active coding in early 2022 and been progressing fast ever since.
+- ⚡ Frontend Engineer passionate about building fast, accessible, and elegant web applications using React, Next.js, and Tailwind CSS.
 
-- 🔭 I’m currently maintaining a code base written in Angular and preparing to develop a new business app in React within an EV Charging Company.
+- 🔭 Currently based in Istanbul, developing modern, high-performance interfaces for web platforms.
   
 - 📫 You can reach me on:   <a href="https://www.linkedin.com/in/aytacserce/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
@@ -23,19 +23,22 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-plain-wordmark.svg" title="Git" **alt="Git" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/github/github-original-wordmark.svg" title="GitHub" **alt="GitHub" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/bootstrap/bootstrap-plain-wordmark.svg"  title="Bootstrap" alt="Bootstrap" width="40" height="40"/>&nbsp;
- <img src="https://github.com/devicons/devicon/blob/master/icons/tailwindcss/tailwindcss-original-wordmark.svg"  title="Tailwind" alt="Tailwind" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/tailwindcss/tailwindcss-original-wordmark.svg"  title="Tailwind" alt="Tailwind" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" title="React" alt="React" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/nextjs/nextjs-line-wordmark.svg" title="Nextjs" alt="Nextjs" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/redux/redux-original.svg" title="Redux" alt="Redux " width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/angularjs/angularjs-original-wordmark.svg" title="Angular" **alt="Angular" width="40" height="40"/>&nbsp;
 </div>
 
   ---
 
-  ### :clipboard: Some of my early Vanilla JS projects (GitHub Pages):
+  ### :clipboard: Some of my work and early projects:
   
   :page_facing_up: <a href="https://aytac-serce.netlify.app/">Portfolio Site<a/>
   
-  :page_facing_up: <a href="https://www.dogaldengerehberi.com/">dogaldengerehberi.com (Real-life Project)<a/>
+  :page_facing_up: <a href="https://www.dogaldengerehberi.com/">dogaldengerehberi.com (Freelance Project)<a/>
+
+  :page_facing_up: <a href="https://www.wbocsports.com/">wbocsports.com (Freelance Project)<a/>
   
   :page_facing_up: <a href="https://mapty-exercise-records.netlify.app/">Exercise Records<a/>
   
