@@ -34,7 +34,7 @@
 
   ### :clipboard: Some of my work and early projects:
   
-  :page_facing_up: <a target="_blank" href="https://aytac-serce.netlify.app/">Portfolio Site<a/>
+  :page_facing_up: <a target="_blank" href="https://aytac-serce.netlify.app/">Portfolio Site</a>
   
   :page_facing_up: <a href="https://www.dogaldengerehberi.com/">dogaldengerehberi.com (Freelance Project)<a/>
 
